@@ -1,0 +1,190 @@
+$, target=move_tolerance, value=0.07
+
+@, label=routine1
+*, x=0.524, y=0.326, frequency=1, skip=False, adjust=False
+    DemonCry
+    FlashJumpInfernalConcussion, jump=True
+    DemonImpact
+*, x=0.374, y=0.326, frequency=1, skip=False, adjust=False
+    Cerburus
+    DemonImpact
+    InfernalConcussion
+*, x=0.219, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.235, y=0.257, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.235, y=0.257, frequency=1, skip=False, adjust=False
+    Walk, direction=right, duration=0.2
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.37, y=0.257, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.5, y=0.326, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=right, attacks=2, repetitions=1
+    InfernalConcussion
+    Rope
+*, x=0.5, y=0.176, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    DemonCry
+*, x=0.42, y=0.176, frequency=1, skip=False, adjust=False
+    DemonImpact
+    DemonImpact
+*, x=0.55, y=0.176, frequency=1, skip=False, adjust=False
+    DemonImpact
+*, x=0.642, y=0.166, frequency=1, skip=False, adjust=False
+    Jormungand
+    InfernalConcussion
+*, x=0.775, y=0.166, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.888, y=0.166, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    Fall, distance=0.05
+*, x=0.888, y=0.326, frequency=1, skip=False, adjust=False
+    Cerburus
+*, x=0.765, y=0.326, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=left, attacks=2, repetitions=1
+    SerenCore
+    Fall, distance=0.05
+
+@, label=routine2
+*, x=0.2, y=0.257, frequency=1, skip=False, adjust=False
+    DemonImpact
+    DemonImpact
+*, x=0.265, y=0.257, frequency=1, skip=False, adjust=False
+    FlashJumpDemonImpact, jump=True
+*, x=0.377, y=0.257, frequency=1, skip=False, adjust=False
+    JumpDemonCry, jump=True
+    InfernalConcussion
+*, x=0.423, y=0.257, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    ErdaShower
+*, x=0.492, y=0.176, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.54, y=0.176, frequency=1, skip=False, adjust=False
+    Cerburus
+    InfernalConcussion
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.62, y=0.166, frequency=2, skip=False, adjust=False
+    SpiderCore
+*, x=0.62, y=0.166, frequency=1, skip=False, adjust=False
+    DemonCry
+    DemonThrash, direction=left, attacks=2, repetitions=1
+*, x=0.67, y=0.166, frequency=1, skip=False, adjust=False
+    Cerburus
+*, x=0.75, y=0.166, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.759, y=0.251, frequency=1, skip=False, adjust=False
+    Jormungand
+    InfernalConcussion
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.72, y=0.251, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=left, attacks=2, repetitions=1
+    DemonThrash, direction=right, attacks=2, repetitions=1
+*, x=0.6, y=0.251, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.58, y=0.326, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.45, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    FlashJumpDemonImpact, jump=True
+*, x=0.36, y=0.326, frequency=1, skip=False, adjust=False
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.219, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.32, y=0.326, frequency=1, skip=False, adjust=False
+    FlashJumpDemonImpact, jump=True
+    InfernalConcussion
+*, x=0.42, y=0.326, frequency=1, skip=False, adjust=False
+    Rope
+*, x=0.42, y=0.176, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.42, y=0.176, frequency=2, skip=False, adjust=False
+    Origin
+*, x=0.52, y=0.176, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=right, attacks=2, repetitions=1
+    DemonImpact
+
+@, label=routine3
+*, x=0.53, y=0.251, frequency=2, skip=False, adjust=False
+    ErdaShower
+*, x=0.6, y=0.251, frequency=1, skip=False, adjust=False
+    JumpDemonCry, jump=True
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.759, y=0.251, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    Rope
+*, x=0.775, y=0.166, frequency=1, skip=False, adjust=False
+    Cerburus
+    InfernalConcussion
+*, x=0.888, y=0.166, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+    Fall, distance=0.05
+*, x=0.888, y=0.326, frequency=1, skip=False, adjust=False
+    Fall, distance=0.05
+*, x=0.16, y=0.257, frequency=1, skip=False, adjust=False
+    DemonCry
+*, x=0.245, y=0.257, frequency=1, skip=False, adjust=False
+    DemonImpact
+*, x=0.245, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.37, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    FlashJumpInfernalConcussion, jump=True
+*, x=0.45, y=0.326, frequency=1, skip=False, adjust=False
+    Jormungand
+    InfernalConcussion
+    Rope
+*, x=0.46, y=0.176, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=left, attacks=1, repetitions=1
+    DemonImpact
+*, x=0.545, y=0.176, frequency=1, skip=False, adjust=False
+    Cerburus
+    InfernalConcussion
+*, x=0.545, y=0.251, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.545, y=0.326, frequency=1, skip=False, adjust=False
+    Cerburus
+    FlashJumpDemonImpact, jump=True
+*, x=0.66, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    JumpDemonCry, jump=True
+*, x=0.77, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    Rope
+*, x=0.775, y=0.166, frequency=1, skip=False, adjust=False
+    DemonThrash, direction=left, attacks=1, repetitions=1
+    DemonImpact
+    Rope
+*, x=0.775, y=0.075, frequency=1, skip=False, adjust=False
+    FlashJumpDemonImpact, jump=True
+*, x=0.64, y=0.091, frequency=1, skip=False, adjust=False
+    FlashJumpDemonImpact, jump=True
+    FlashJumpDemonImpact, jump=True
+
+@, label=routine4
+*, x=0.48, y=0.091, frequency=1, skip=False, adjust=False
+    FlashJumpInfernalConcussion, jump=True
+    FlashJump, direction=left
+*, x=0.2, y=0.257, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.219, y=0.326, frequency=1, skip=False, adjust=False
+    Cerburus
+*, x=0.3, y=0.326, frequency=1, skip=False, adjust=False
+    FlashJumpInfernalConcussion, jump=True
+    InfernalConcussion
+*, x=0.374, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion
+    InfernalConcussion
+*, x=0.47, y=0.326, frequency=1, skip=False, adjust=False
+    InfernalConcussion

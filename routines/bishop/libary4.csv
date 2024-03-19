@@ -1,0 +1,224 @@
+
+@, label=routine1
+*, x=0.588, y=0.243, frequency=1, skip=False, adjust=False
+    HeavenDoor
+    BigBang
+    FountainOfAngel, direction=left
+*, x=0.554, y=0.351, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=1, repetitions=1
+    JumpBigBang, jump=True
+*, x=0.554, y=0.351, frequency=4, skip=False, adjust=False
+*, x=0.34, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.2, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.2, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.264, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.264, y=0.128, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=1, repetitions=1
+    BigBang
+*, x=0.318, y=0.128, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.453, y=0.128, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.568, y=0.128, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.676, y=0.128, frequency=1, skip=False, adjust=False
+    BigBang
+    Fall, distance=0.05
+*, x=0.676, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    PeaceMaker, direction=right, attacks=1, repetitions=1
+*, x=0.791, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    AngelRay, direction=left, attacks=2, repetitions=1
+*, x=0.899, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.899, y=0.243, frequency=2, skip=False, adjust=False
+    ErdaShower
+*, x=0.899, y=0.108, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.899, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.770, y=0.351, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.655, y=0.351, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.527, y=0.351, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.34, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+    HeavenDoor
+*, x=0.34, y=0.243, frequency=1, skip=False, adjust=False
+    AngelRay, direction=left, attacks=1, repetitions=1
+    PeaceMaker, direction=right, attacks=1, repetitions=1
+    JumpBigBang, jump=True
+*, x=0.486, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+
+@, label=routine2
+*, x=0.615, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.696, y=0.243, frequency=1, skip=False, adjust=False
+    FountainOfAngel, direction=right
+    BigBang
+*, x=0.7, y=0.243, frequency=3, skip=False, adjust=False
+    HeavenDoor
+*, x=0.811, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    BigBang
+*, x=0.878, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    JumpBigBang, jump=True
+*, x=0.85, y=0.243, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=2, repetitions=1
+    BigBang
+*, x=0.696, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.58, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.58, y=0.243, frequency=1, skip=False, adjust=False
+    Origin
+*, x=0.5, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.5, y=0.243, frequency=1, skip=False, adjust=False
+    AngelRay, direction=right, attacks=2, repetitions=1
+*, x=0.34, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.25, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    BigBang
+*, x=0.16, y=0.243, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=2, repetitions=1
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.276, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.486, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+
+@, label=routine3
+*, x=0.52, y=0.243, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=1, repetitions=1
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.57, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.57, y=0.243, frequency=2, skip=False, adjust=False
+    FountainOfAngel, direction=Right
+*, x=0.56, y=0.351, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.655, y=0.351, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.770, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.83, y=0.351, frequency=1, skip=False, adjust=False
+    BigBang
+    Teleport, direction=up, jump=True
+*, x=0.82, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.65, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.65, y=0.243, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.55, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.486, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.34, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+    JumpBigBang, jump=True
+*, x=0.34, y=0.243, frequency=1, skip=False, adjust=False
+    Will
+*, x=0.182, y=0.243, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=2, repetitions=1
+    BigBang
+    BigBang
+
+@, label=routine4
+*, x=0.25, y=0.243, frequency=1, skip=False, adjust=False
+    HeavenDoor
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.34, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.34, y=0.243, frequency=3, skip=False, adjust=False
+    ErdaShower
+*, x=0.5, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.58, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True
+    JumpBigBang, jump=True
+*, x=0.696, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.75, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    Teleport, direction=right, jump=False
+*, x=0.75, y=0.243, frequency=3, skip=False, adjust=False
+    Seren
+*, x=0.85, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    JumpBigBang, jump=True
+    BigBang
+*, x=0.878, y=0.243, frequency=1, skip=False, adjust=False
+    FountainOfAngel, direction=left
+    BigBang
+*, x=0.791, y=0.243, frequency=1, skip=False, adjust=False
+    JumpBigBang, jump=True
+    BigBang
+    BigBang
+*, x=0.696, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    JumpBigBang, jump=True
+*, x=0.615, y=0.243, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=2, repetitions=1
+    BigBang
+*, x=0.486, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.318, y=0.243, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBang, jump=True

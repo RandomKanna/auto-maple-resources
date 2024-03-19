@@ -1,0 +1,242 @@
+
+@, label=routine1
+*, x=0.237, y=0.119, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.348, y=0.119, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.348, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+    AngelRay, direction=right, attacks=2, repetitions=1
+*, x=0.22, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.207, y=0.311, frequency=1, skip=False, adjust=False
+    AngelRay, direction=right, attacks=1, repetitions=1
+    ErdaShower
+*, x=0.296, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.26, y=0.400, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.437, y=0.400, frequency=1, skip=False, adjust=False
+    JumpBigBangRandom
+    BigBang
+*, x=0.630, y=0.400, frequency=1, skip=False, adjust=False
+    HeavenDoor
+    BigBang
+    JumpBigBangRandom
+*, x=0.7, y=0.400, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.852, y=0.400, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.852, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=left, attacks=2, repetitions=1
+*, x=0.852, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.741, y=0.215, frequency=1, skip=False, adjust=False
+    FountainOfAngel, direction=left
+    BigBang
+    BigBang
+*, x=0.741, y=0.119, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.62, y=0.119, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.61, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.496, y=0.215, frequency=1, skip=False, adjust=False
+    AngelRay, direction=right, attacks=1, repetitions=1
+    BigBang
+*, x=0.385, y=0.215, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=2, repetitions=1
+*, x=0.459, y=0.215, frequency=1, skip=False, adjust=False
+    Origin
+    BigBang
+    BigBang
+*, x=0.459, y=0.304, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+    AngelRay, direction=left, attacks=2, repetitions=1
+
+@, label=routine2
+*, x=0.459, y=0.304, frequency=1, skip=False, adjust=False
+    HeavenDoor
+    BigBang
+*, x=0.556, y=0.304, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+    BigBang
+*, x=0.57, y=0.304, frequency=2, skip=False, adjust=False
+    ErdaShower
+*, x=0.659, y=0.304, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.72, y=0.304, frequency=1, skip=False, adjust=False
+    BigBang
+    PeaceMaker, direction=left, attacks=2, repetitions=1
+*, x=0.72, y=0.304, frequency=2, skip=False, adjust=False
+*, x=0.77, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.82, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.87, y=0.215, frequency=1, skip=False, adjust=False
+    AngelRay, direction=left, attacks=2, repetitions=1
+    JumpBigBangRandom
+*, x=0.81, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.64, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.55, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.42, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.335, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.335, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    Seren
+*, x=0.296, y=0.311, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.207, y=0.311, frequency=2, skip=False, adjust=False
+    Will
+*, x=0.46, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.52, y=0.311, frequency=1, skip=False, adjust=False
+    AngelRay, direction=left, attacks=1, repetitions=1
+*, x=0.56, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+
+@, label=routine3
+*, x=0.56, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    PeaceMaker, direction=left, attacks=1, repetitions=1
+*, x=0.746, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.852, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.852, y=0.215, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=left, attacks=1, repetitions=1
+    BigBang
+*, x=0.741, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.67, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.54, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.44, y=0.311, frequency=1, skip=False, adjust=False
+    HeavenDoor
+    JumpBigBangRandom
+*, x=0.32, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.23, y=0.311, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=1, repetitions=1
+    BigBang
+    BigBang
+*, x=0.23, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.32, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+*, x=0.42, y=0.215, frequency=2, skip=False, adjust=False
+    FountainOfAngel, direction=right
+*, x=0.56, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.56, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.74, y=0.311, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.85, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.89, y=0.311, frequency=1, skip=False, adjust=False
+    Teleport, direction=up, jump=False
+
+@, label=routine4
+*, x=0.88, y=0.215, frequency=1, skip=False, adjust=False
+    AngelRay, direction=left, attacks=2, repetitions=1
+    BigBang
+*, x=0.77, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.62, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.44, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.33, y=0.215, frequency=1, skip=False, adjust=False
+    JumpBigBangRandom
+    JumpBigBangRandom
+*, x=0.296, y=0.311, frequency=1, skip=False, adjust=False
+    ErdaShower
+*, x=0.207, y=0.311, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=2, repetitions=1
+*, x=0.32, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.44, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.55, y=0.311, frequency=1, skip=False, adjust=False
+    JumpBigBangRandom
+    JumpBigBangRandom
+*, x=0.65, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.75, y=0.311, frequency=1, skip=False, adjust=False
+    FountainOfAngel, direction=right
+    JumpBigBangRandom
+*, x=0.75, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=left, attacks=2, repetitions=1
+*, x=0.741, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.64, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+    BigBang
+*, x=0.5, y=0.215, frequency=1, skip=False, adjust=False
+    PeaceMaker, direction=right, attacks=1, repetitions=1
+    BigBang
+*, x=0.348, y=0.215, frequency=1, skip=False, adjust=False
+    JumpBigBangRandom
+    BigBang
+*, x=0.348, y=0.400, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.437, y=0.400, frequency=1, skip=False, adjust=False
+    HeavenDoor
+*, x=0.6, y=0.400, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.7, y=0.400, frequency=1, skip=False, adjust=False
+    JumpBigBangRandom
+    JumpBigBangRandom
+*, x=0.7, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    AngelRay, direction=right, attacks=1, repetitions=1
+    BigBang
+*, x=0.57, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.44, y=0.311, frequency=1, skip=False, adjust=False
+    BigBang
+    JumpBigBangRandom
+*, x=0.44, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
+*, x=0.33, y=0.215, frequency=1, skip=False, adjust=False
+    BigBang
