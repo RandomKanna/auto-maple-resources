@@ -1,0 +1,45 @@
+*, x=0.808, y=0.120, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.635, y=0.096, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.431, y=0.120, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+*, x=0.228, y=0.096, frequency=1, skip=False, adjust=False
+    ErdaShower, direction=left, jump=False
+*, x=0.102, y=0.096, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.090, y=0.210, frequency=1, skip=False, adjust=False
+    Tengu
+*, x=0.102, y=0.341, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Teleport, direction=right, jump=False
+*, x=0.275, y=0.341, frequency=1, skip=False, adjust=False
+    Kishin
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.479, y=0.341, frequency=1, skip=False, adjust=False
+    Domain
+*, x=0.641, y=0.329, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Exorcist, jump=True
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.808, y=0.323, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Wait, duration=0.5
+    Charm
+*, x=0.790, y=0.234, frequency=1, skip=False, adjust=False
+    Tengu
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.623, y=0.210, frequency=1, skip=False, adjust=False
+    Yaksha, direction=left
+*, x=0.431, y=0.234, frequency=1, skip=False, adjust=False
+    NineTails
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.305, y=0.234, frequency=1, skip=False, adjust=False
+    LucidSoul, direction=right
+*, x=0.623, y=0.210, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+*, x=0.790, y=0.234, frequency=1, skip=False, adjust=False
+    Tengu
+    Charm

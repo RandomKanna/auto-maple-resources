@@ -1,0 +1,29 @@
+*, x=0.306, y=0.218, frequency=1, skip=False, adjust=False
+    Kishin
+*, x=0.472, y=0.213, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+*, x=0.639, y=0.218, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.731, y=0.218, frequency=1, skip=False, adjust=False
+    Charm
+*, x=0.741, y=0.144, frequency=1, skip=False, adjust=False
+    Yaksha, direction=left
+*, x=0.588, y=0.157, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.588, y=0.088, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.463, y=0.093, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.431, y=0.157, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.329, y=0.157, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Charm
+*, x=0.273, y=0.074, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Fall, distance=0.05

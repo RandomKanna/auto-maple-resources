@@ -1,0 +1,31 @@
+*, x=0.816, y=0.126, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=right, attacks=2, repetitions=1
+*, x=0.854, y=0.204, frequency=1, skip=False, adjust=False
+    Storm
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+*, x=0.845, y=0.296, frequency=1, skip=False, adjust=False
+    DragonVein
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+    AetherBloom
+*, x=0.617, y=0.296, frequency=1, skip=False, adjust=False
+    DragonVein
+    DragonVein
+*, x=0.437, y=0.296, frequency=1, skip=False, adjust=False
+    DragonVein
+    Storm
+*, x=0.252, y=0.296, frequency=1, skip=False, adjust=False
+    AetherBloom
+    Storm
+*, x=0.252, y=0.204, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+    SpiritSprinkling, direction=right, attacks=1, repetitions=1
+*, x=0.252, y=0.097, frequency=1, skip=False, adjust=False
+    HighRise, jump=True
+    DragonVein
+*, x=0.519, y=0.097, frequency=1, skip=False, adjust=False
+    Shardbreaker, direction=right
+*, x=0.602, y=0.233, frequency=1, skip=False, adjust=False
+    FeatherFloat, jump=False
+*, x=0.84, y=0.126, frequency=1, skip=False, adjust=False
+    AetherBloom
+    DragonVein

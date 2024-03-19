@@ -1,0 +1,46 @@
+*, x=0.43, y=0.171, frequency=1, skip=False, adjust=False
+    Buff
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Charm
+*, x=0.412, y=0.085, frequency=1, skip=False, adjust=False
+    Kishin
+*, x=0.24, y=0.085, frequency=1, skip=False, adjust=False
+    Tengu
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.171, y=0.171, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+*, x=0.226, y=0.256, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.206, y=0.342, frequency=1, skip=False, adjust=False
+    Tengu
+    Teleport, direction=right, jump=False
+*, x=0.457, y=0.342, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.693, y=0.342, frequency=1, skip=False, adjust=False
+    Tengu
+    Wait, duration=0.5
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.688, y=0.256, frequency=1, skip=False, adjust=False
+    Yukimusume
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Charm
+*, x=0.70, y=0.171, frequency=1, skip=False, adjust=False
+    Yaksha, direction=right
+    Exorcist, jump=False
+*, x=0.538, y=0.171, frequency=1, skip=False, adjust=False
+    Arachnid
+*, x=0.44, y=0.171, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Fall, distance=0.05
+*, x=0.44, y=0.256, frequency=1, skip=False, adjust=False
+    Legion
+    Wait, duration=0.5
+    Tengu
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.26, y=0.256, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Exorcist, jump=False
+*, x=0.26, y=0.171, frequency=1, skip=False, adjust=False
+    Teleport, direction=right, jump=False

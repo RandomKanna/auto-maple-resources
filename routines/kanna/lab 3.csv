@@ -1,0 +1,182 @@
+
+@, label=routine 1
+*, x=0.172, y=0.392, frequency=1, skip=False, adjust=False
+    Tengu
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.349, y=0.392, frequency=3, skip=False, adjust=False
+    Kishin
+    Exorcist, jump=False
+    Teleport, direction=up, jump=False
+*, x=0.349, y=0.317, frequency=1, skip=False, adjust=False
+    NineTails
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Teleport, direction=left, jump=False
+*, x=0.26, y=0.317, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.22, y=0.226, frequency=1, skip=False, adjust=False
+    Yaksha, direction=right
+    Tengu
+    BlossomBarrier
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.215, y=0.086, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Tengu
+*, x=0.274, y=0.156, frequency=1, skip=False, adjust=True
+    Portal
+    Portal
+*, x=0.269, y=0.392, frequency=1, skip=False, adjust=True
+    Wait, duration=0.2
+    Portal
+    Portal
+*, x=0.812, y=0.167, frequency=1, skip=False, adjust=False
+    Arachnid
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Fall, distance=0.05
+    Wait, duration=0.5
+*, x=0.812, y=0.242, frequency=1, skip=False, adjust=False
+    Yukimusume
+*, x=0.76, y=0.242, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    BlossomBarrier
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Walk, direction=right, duration=0.3
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.833, y=0.392, frequency=1, skip=False, adjust=False
+    Kishin
+    LucidSoul, direction=left
+    Teleport, direction=left, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.591, y=0.392, frequency=1, skip=False, adjust=False
+    SerenCore
+    Tengu
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.403, y=0.392, frequency=1, skip=False, adjust=False
+    Domain
+    BlossomBarrier
+
+@, label=routine 2
+*, x=0.6, y=0.392, frequency=1, skip=False, adjust=False
+    Tengu
+    Teleport, direction=right, jump=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.67, y=0.392, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Teleport, direction=right, jump=False
+*, x=0.75, y=0.392, frequency=1, skip=False, adjust=False
+    Tengu
+*, x=0.833, y=0.392, frequency=1, skip=False, adjust=True
+    Portal
+*, x=0.24, y=0.156, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Yaksha, direction=right
+    Teleport, direction=right, jump=False
+    ErdaShower, direction=right, jump=False
+*, x=0.34, y=0.156, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Walk, direction=right, duration=0.5
+    Fall, distance=0.05
+*, x=0.462, y=0.280, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Teleport, direction=left, jump=False
+*, x=0.35, y=0.317, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Teleport, direction=left, jump=False
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.24, y=0.392, frequency=1, skip=False, adjust=False
+    Kishin
+    Teleport, direction=right, jump=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Legion
+*, x=0.403, y=0.392, frequency=1, skip=False, adjust=False
+    Walk, direction=right, duration=2
+    Tengu
+*, x=0.55, y=0.392, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+
+@, label=routine 3
+*, x=0.403, y=0.392, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    BlossomBarrier
+*, x=0.269, y=0.392, frequency=1, skip=False, adjust=True
+    Portal
+*, x=0.77, y=0.167, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Fall, distance=0.05
+*, x=0.75, y=0.242, frequency=1, skip=False, adjust=False
+    Teleport, direction=right, jump=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.72, y=0.312, frequency=1, skip=False, adjust=False
+    Yaksha, direction=right
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.7, y=0.392, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Exorcist, jump=True
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.833, y=0.392, frequency=1, skip=False, adjust=True
+    Portal
+*, x=0.2, y=0.156, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Fall, distance=0.05
+*, x=0.2, y=0.317, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+
+@, label=routine 4
+*, x=0.204, y=0.392, frequency=1, skip=False, adjust=False
+*, x=0.360, y=0.392, frequency=1, skip=False, adjust=False
+*, x=0.565, y=0.392, frequency=1, skip=False, adjust=False
+*, x=0.747, y=0.392, frequency=1, skip=False, adjust=False
+*, x=0.833, y=0.392, frequency=1, skip=False, adjust=True
+    Portal
+*, x=0.280, y=0.156, frequency=1, skip=False, adjust=True
+    Exorcist, jump=True
+    JumpShiki, jump=True
+    Wait, duration=0.3
+*, x=0.280, y=0.156, frequency=1, skip=False, adjust=True
+    Portal
+    Portal
+*, x=0.269, y=0.392, frequency=1, skip=False, adjust=True
+    JumpShiki, jump=True
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.269, y=0.392, frequency=1, skip=False, adjust=True
+    Portal
+    Portal
+*, x=0.812, y=0.167, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Walk, direction=right, duration=0.1
+    JumpShiki, jump=True
+    Walk, direction=right, duration=0.5
+    Fall, distance=0.05
+*, x=0.903, y=0.312, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    JumpShiki, jump=True
+
+@, label=routine 5
+*, x=0.86, y=0.392, frequency=1, skip=False, adjust=False
+    JumpShiki, jump=True
+    Teleport, direction=left, jump=False
+*, x=0.7, y=0.392, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    JumpShiki, jump=False
+*, x=0.565, y=0.392, frequency=1, skip=False, adjust=False
+    Kishin
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.360, y=0.392, frequency=1, skip=False, adjust=False
+    Tengu
+*, x=0.22, y=0.392, frequency=1, skip=False, adjust=False
+    JumpShiki, jump=True

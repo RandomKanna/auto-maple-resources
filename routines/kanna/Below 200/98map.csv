@@ -1,0 +1,52 @@
+$, target=move_tolerance, value=0.075
+
+@, label=main
+>, label=loot, frequency=4, skip=False
+
+@, label=afterboss
+>, label=main, frequency=1, skip=False
+
+@, label=loot
+*, x=0.750, y=0.200, frequency=1, skip=False, adjust=False
+    Teleport, direction=left, jump=False
+    NineTails
+    Tengu
+*, x=0.44, y=0.199, frequency=1, skip=False, adjust=True
+    Balance
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.350, y=0.200, frequency=1, skip=False, adjust=True
+    Kishin
+    Wait, duration=0.15
+*, x=0.225, y=0.200, frequency=1, skip=False, adjust=True
+    Walk, direction=left, duration=0.2
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.225, y=0.200, frequency=1, skip=False, adjust=False
+    Walk, direction=left, duration=0.2
+    Tengu
+*, x=0.660, y=0.083, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+*, x=0.394, y=0.100, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+    Walk, direction=left, duration=0.5
+*, x=0.394, y=0.100, frequency=1, skip=False, adjust=False
+    Walk, direction=left, duration=0.2
+    Tengu
+    Shikigami, direction=right, attacks=2, repetitions=1
+>, label=afterboss2, frequency=1, skip=False
+
+@, label=main2
+>, label=boss2, frequency=5, skip=True
+
+@, label=afterboss2
+>, label=main2, frequency=1, skip=False
+
+@, label=boss2
+*, x=0.750, y=0.200, frequency=3, skip=True, adjust=False
+    Yaksha, direction=left
+>, label=afterboss, frequency=3, skip=True
+*, x=0.750, y=0.200, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Charm
+>, label=afterboss2, frequency=1, skip=False

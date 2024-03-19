@@ -1,0 +1,26 @@
+*, x=0.207, y=0.393, frequency=1, skip=False, adjust=False
+    FlashJumpAtt, direction=right, times=3
+    Fear
+*, x=0.393, y=0.393, frequency=1, skip=False, adjust=False
+    FlashJumpAtt, direction=right, times=3
+*, x=0.567, y=0.393, frequency=1, skip=False, adjust=True
+    FlashJumpAtt, direction=right, times=4
+*, x=0.667, y=0.393, frequency=1, skip=False, adjust=False
+    Plaincharge, direction=right, attacks=2, repetitions=1
+*, x=0.833, y=0.393, frequency=1, skip=False, adjust=False
+    Plaincharge, direction=left, attacks=4, repetitions=1
+*, x=0.9, y=0.393, frequency=1, skip=False, adjust=False
+    FlashJumpAtt, direction=left, times=1
+*, x=0.833, y=0.393, frequency=1, skip=False, adjust=False
+    ErdaShower, direction=left, jump=False
+    FlashJumpAtt, direction=left, times=4
+*, x=0.6, y=0.393, frequency=1, skip=False, adjust=False
+    Plaincharge, direction=right, attacks=2, repetitions=1
+    Plaincharge, direction=left, attacks=2, repetitions=1
+    Walk, direction=left, duration=0.5
+    FlashJumpAtt, direction=left, times=1
+*, x=0.393, y=0.393, frequency=1, skip=False, adjust=False
+    Fear
+    FlashJumpAtt, direction=left, times=4
+*, x=0.207, y=0.393, frequency=1, skip=False, adjust=False
+    Plaincharge, direction=left, attacks=2, repetitions=1

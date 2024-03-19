@@ -1,0 +1,49 @@
+$, target=move_tolerance, value=0.075
+
+@, label=main
+*, x=0.67, y=0.115, frequency=1, skip=False, adjust=True
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Yukimusume
+*, x=0.5, y=0.265, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Tengu
+*, x=0.34, y=0.175, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Tengu
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.22, y=0.265, frequency=1, skip=False, adjust=True
+    Yaksha, direction=left
+*, x=0.165, y=0.185, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.17, y=0.115, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+*, x=0.62, y=0.06, frequency=1, skip=False, adjust=False
+    Tengu
+    Wait, duration=0.3
+    Arachnid
+*, x=0.35, y=0.265, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Balance
+    BlossomBarrier
+*, x=0.66, y=0.115, frequency=3, skip=True, adjust=False
+    Exorcist, jump=False
+*, x=0.88, y=0.265, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.85, y=0.185, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.67, y=0.115, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.66, y=0.265, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+>, label=loot, frequency=4, skip=False
+
+@, label=afterboss
+>, label=main, frequency=1, skip=False

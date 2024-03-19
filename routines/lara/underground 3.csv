@@ -1,0 +1,25 @@
+
+@, label=Main
+*, x=0.5, y=0.39, frequency=1, skip=False, adjust=False
+    Walk, direction=right, duration=0.5
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.7, y=0.39, frequency=1, skip=False, adjust=False
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.65, y=0.3, frequency=1, skip=False, adjust=False
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.66, y=0.2, frequency=1, skip=False, adjust=False
+    Walk, direction=right, duration=0.5
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.34, y=0.23, frequency=1, skip=False, adjust=False
+    Wait, duration=1
+    Cleave, direction=left, attacks=2, repetitions=1
+*, x=0.42, y=0.13, frequency=1, skip=False, adjust=False
+    Cleave, direction=right, attacks=2, repetitions=1
+
+@, label=Loot
+*, x=0.34, y=0.32, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+*, x=0.35, y=0.39, frequency=1, skip=True, adjust=False
+    Walk, direction=right, duration=1
+    HuntingDecree

@@ -1,0 +1,17 @@
+
+@, label=Center
+*, x=0.47, y=0.46, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.5, y=0.34, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.5, y=0.24, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=2, repetitions=1
+*, x=0.4, y=0.13, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=2, repetitions=1
+    Wait, duration=1
+*, x=0.5, y=0.13, frequency=1, skip=False, adjust=False
+    Cleave, direction=right, attacks=2, repetitions=1

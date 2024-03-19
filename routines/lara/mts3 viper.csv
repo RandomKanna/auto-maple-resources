@@ -1,0 +1,28 @@
+
+@, label=Main
+*, x=0.23, y=0.4, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+    SpiritSprinkling, direction=right, attacks=1, repetitions=1
+*, x=0.22, y=0.24, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=right, attacks=1, repetitions=1
+*, x=0.5, y=0.35, frequency=1, skip=False, adjust=False
+    Storm
+*, x=0.53, y=0.25, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+    SpiritSprinkling, direction=right, attacks=1, repetitions=1
+*, x=0.72, y=0.15, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=right, attacks=2, repetitions=1
+*, x=0.53, y=0.24, frequency=1, skip=False, adjust=False
+    Plummet, jump=False
+*, x=0.34, y=0.15, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=right, attacks=2, repetitions=1
+
+@, label=Loot
+*, x=0.4, y=0.4, frequency=1, skip=False, adjust=False
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+*, x=0.6, y=0.4, frequency=1, skip=True, adjust=False
+    SpiritSprinkling, direction=left, attacks=1, repetitions=1
+    SpiritSprinkling, direction=right, attacks=1, repetitions=1
+*, x=0.8, y=0.4, frequency=1, skip=False, adjust=False
+    Wakingup
+    Wait, duration=0.5

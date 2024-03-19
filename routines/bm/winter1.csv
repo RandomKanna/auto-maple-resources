@@ -1,0 +1,33 @@
+*, x=0.250, y=0.314, frequency=1, skip=False, adjust=False
+    Scarlet
+    FlashJumpAtt, direction=right, times=1
+*, x=0.410, y=0.314, frequency=1, skip=False, adjust=False
+    FlashJumpAttNightmare, direction=right, times=1
+*, x=0.617, y=0.314, frequency=1, skip=False, adjust=False
+    FlashJumpAtt, direction=right, times=1
+    FlashJumpAtt, direction=right, times=1
+*, x=0.793, y=0.314, frequency=1, skip=False, adjust=False
+    Abyss
+    JumpUp
+*, x=0.830, y=0.245, frequency=1, skip=False, adjust=False
+    Nightmare
+    Plaincharge
+*, x=0.814, y=0.160, frequency=1, skip=False, adjust=False
+    Plaincharge
+    Walk, direction=right, duration=0.4
+    Abyss
+*, x=0.649, y=0.160, frequency=1, skip=False, adjust=False
+    FlashJumpAtt, direction=left, times=1
+    Scarlet
+*, x=0.511, y=0.245, frequency=1, skip=False, adjust=False
+*, x=0.367, y=0.176, frequency=1, skip=False, adjust=False
+    Nightmare
+    Plaincharge
+    Plaincharge
+*, x=0.229, y=0.176, frequency=1, skip=False, adjust=False
+    Nightmare
+    Walk, direction=right, duration=0.3
+    ErdaFountain
+    Plaincharge
+*, x=0.229, y=0.314, frequency=1, skip=False, adjust=False
+    Arachnid

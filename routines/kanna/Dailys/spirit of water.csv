@@ -1,0 +1,46 @@
+$, target=move_tolerance, value=0.075
+
+@, label=main
+*, x=0.83, y=0.23, frequency=1, skip=False, adjust=True
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Yukimusume
+*, x=0.8, y=0.33, frequency=3, skip=True, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.68, y=0.33, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Tengu
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Teleport, direction=up, jump=False
+*, x=0.27, y=0.33, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.5, y=0.23, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Tengu
+*, x=0.25, y=0.183, frequency=1, skip=False, adjust=False
+    Tengu
+    Wait, duration=0.3
+    Arachnid
+*, x=0.3, y=0.183, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Balance
+    BlossomBarrier
+*, x=0.67, y=0.183, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Tengu
+*, x=0.25, y=0.33, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.2, y=0.33, frequency=1, skip=False, adjust=True
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Kishin
+    Exorcist, jump=False
+*, x=0.5, y=0.33, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+>, label=loot, frequency=4, skip=False
+
+@, label=afterboss
+>, label=main, frequency=1, skip=False

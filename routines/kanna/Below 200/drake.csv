@@ -1,0 +1,28 @@
+$, target=move_tolerance, value=0.09
+$, target=buff_cooldown, value=185
+
+@, label=kish
+
+@, label=main
+*, x=0.415, y=0.35, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.430, y=0.45, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.415, y=0.243, frequency=1, skip=False, adjust=False
+    Exorcist, jump=False
+    Yaksha, direction=right
+    Teleport, direction=left, jump=False
+>, label=boss, frequency=7, skip=True
+
+@, label=boss
+*, x=0.48, y=0.136, frequency=1, skip=False, adjust=False
+    Yaksha, direction=left
+    Shikigami, direction=left, attacks=3, repetitions=1
+    Shikigami, direction=right, attacks=3, repetitions=1
+>, label=loot, frequency=3, skip=True
+>, label=main, frequency=1, skip=False
+
+@, label=loot
+>, label=kish, frequency=1, skip=False

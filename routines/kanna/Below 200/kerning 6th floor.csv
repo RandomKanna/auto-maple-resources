@@ -1,0 +1,52 @@
+$, target=move_tolerance, value=0.09
+$, target=buff_cooldown, value=185
+
+@, label=kish
+*, x=0.811, y=0.243, frequency=1, skip=False, adjust=False
+    Kishin
+*, x=0.640, y=0.243, frequency=1, skip=False, adjust=True
+    Shikigami, direction=right, attacks=3, repetitions=1
+*, x=0.415, y=0.243, frequency=1, skip=False, adjust=False
+    Yaksha, direction=right
+
+@, label=main
+*, x=0.27, y=0.22, frequency=1, skip=False, adjust=False
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=left, attacks=2, repetitions=1
+*, x=0.61, y=0.22, frequency=1, skip=False, adjust=False
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Tengu
+    Arachnid
+    Charm
+*, x=0.64, y=0.12, frequency=1, skip=False, adjust=False
+    NineTails
+    Exorcist, jump=False
+*, x=0.275, y=0.1, frequency=1, skip=False, adjust=True
+    Exorcist, jump=False
+    Shikigami, direction=right, attacks=3, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.64, y=0.12, frequency=2, skip=False, adjust=False
+    Yaksha, direction=right
+>, label=boss, frequency=7, skip=True
+>, label=main, frequency=1, skip=False
+
+@, label=boss
+>, label=loot, frequency=3, skip=True
+*, x=0.415, y=0.243, frequency=1, skip=False, adjust=False
+    Yaksha, direction=right
+    Charm
+    Teleport, direction=left, jump=False
+>, label=main, frequency=1, skip=False
+
+@, label=loot
+*, x=0.640, y=0.108, frequency=1, skip=False, adjust=True
+    Shikigami, direction=left, attacks=2, repetitions=1
+    Shikigami, direction=right, attacks=2, repetitions=1
+*, x=0.640, y=0.108, frequency=1, skip=False, adjust=False
+    NineTails
+    Tengu
+    Wait, duration=0.2
+*, x=0.640, y=0.243, frequency=1, skip=False, adjust=False
+    BlossomBarrier
+    Charm
+>, label=kish, frequency=1, skip=False

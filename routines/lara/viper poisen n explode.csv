@@ -1,0 +1,26 @@
+
+@, label=Main
+*, x=0.3, y=0.165, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=1, repetitions=1
+*, x=0.56, y=0.165, frequency=1, skip=False, adjust=False
+    Storm
+*, x=0.7, y=0.165, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+    Cleave, direction=right, attacks=1, repetitions=1
+*, x=0.85, y=0.165, frequency=1, skip=False, adjust=False
+    Ruin
+    Wait, duration=0.5
+*, x=0.7, y=0.07, frequency=1, skip=False, adjust=False
+    Cleave, direction=right, attacks=1, repetitions=1
+*, x=0.6, y=0.09, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+*, x=0.48, y=0.07, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1
+
+@, label=Loot
+*, x=0.38, y=0.1, frequency=1, skip=False, adjust=False
+    Cleave, direction=left, attacks=1, repetitions=1
+    Fall, distance=0.05
+    Ruin
+*, x=0.25, y=0.165, frequency=1, skip=True, adjust=False
+    Cleave, direction=left, attacks=2, repetitions=1

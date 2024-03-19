@@ -1,0 +1,21 @@
+*, x=0.319, y=0.186, frequency=1, skip=False, adjust=False
+    CruelStabRandomDirection
+    CruelStabRandomDirection
+*, x=0.484, y=0.160, frequency=1, skip=False, adjust=False
+    CruelStabRandomDirection
+    CruelStabRandomDirection
+*, x=0.702, y=0.186, frequency=1, skip=False, adjust=False
+    CruelStabRandomDirection
+    CruelStabRandomDirection
+    Wait, duration=0.5
+    ErdaShower, direction=up, jump=True
+    ErdaShower, direction=up, jump=False
+*, x=0.681, y=0.059, frequency=1, skip=False, adjust=False
+    SuddenRaid
+    CruelStabRandomDirection
+*, x=0.5, y=0.090, frequency=1, skip=False, adjust=False
+    CruelStabRandomDirection
+    CruelStabRandomDirection
+*, x=0.282, y=0.059, frequency=1, skip=False, adjust=False
+    CruelStabRandomDirection
+    CruelStabRandomDirection
